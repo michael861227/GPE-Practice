@@ -9,3 +9,27 @@
 # 心得
 
 [Dcard](https://www.dcard.tw/f/nycu/p/258184502)
+
+# Record
+
+| Problem | Recommand | Appearance | Review | Master |
+|:---:|:---:|:---:|:---:|:---:|
+| [Unique lines](https://github.com/michael861227/GPE-Practice/blob/master/Unique%20lines.cpp) | ⭐️⭐️⭐️ | 8️⃣ | 0️⃣ | ⭐️ |
+| [Power Crisis](https://github.com/michael861227/GPE-Practice/blob/master/Power%20Crisis.cpp) | ⭐️⭐️⭐️ | 6️⃣ | 0️⃣ | ⭐️ |
+| [Sumsets](https://github.com/michael861227/GPE-Practice/blob/master/Sumsets.cpp) | ⭐️⭐️⭐️ | 6️⃣ | 0️⃣ | ⭐️ |
+| [Bee Maja](https://github.com/michael861227/GPE-Practice/blob/master/Bee%20Maja.cpp) | ⭐️⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
+| [Die Game](https://github.com/michael861227/GPE-Practice/blob/master/Die%20Game.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Dollars](https://github.com/michael861227/GPE-Practice/blob/master/Dollars.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Luggage](https://github.com/michael861227/GPE-Practice/blob/master/Luggage.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Prefix expression evaluation](https://github.com/michael861227/GPE-Practice/blob/master/Prefix%20expression%20evaluation.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Uncompress](https://github.com/michael861227/GPE-Practice/blob/master/Uncompress.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
+| [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
+| [Show the Sequence](https://github.com/michael861227/GPE-Practice/blob/master/Show%20the%20Sequence.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
+| [Contest Scoreboard](https://github.com/michael861227/GPE-Practice/blob/master/Contest%20Scoreboard.cpp) | ⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Dungeon Master](https://github.com/michael861227/GPE-Practice/blob/master/Dungeon%20Master.cpp) | ⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Minimal coverage](https://github.com/michael861227/GPE-Practice/blob/master/Minimal%20coverage.cpp) | ⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Roads in the North](https://github.com/michael861227/GPE-Practice/blob/master/Roads%20in%20the%20North.cpp) | ⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Longest Paths](https://github.com/michael861227/GPE-Practice/blob/master/Longest%20Paths.cpp) | ⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Network Connections](https://github.com/michael861227/GPE-Practice/blob/master/Network%20Connections.cpp) | ⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Prime Distance](https://github.com/michael861227/GPE-Practice/blob/master/Prime%20Distance.cpp) | ⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
