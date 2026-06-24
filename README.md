@@ -24,6 +24,7 @@
 | [Prefix expression evaluation](https://github.com/michael861227/GPE-Practice/blob/master/Prefix%20expression%20evaluation.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
 | [Uncompress](https://github.com/michael861227/GPE-Practice/blob/master/Uncompress.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
 | [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
+| [Cola](https://github.com/michael861227/GPE-Practice/blob/master/Cola.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
 | [Show the Sequence](https://github.com/michael861227/GPE-Practice/blob/master/Show%20the%20Sequence.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
 | [Contest Scoreboard](https://github.com/michael861227/GPE-Practice/blob/master/Contest%20Scoreboard.cpp) | ⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
