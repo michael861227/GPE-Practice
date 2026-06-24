@@ -23,6 +23,7 @@
 | [Luggage](https://github.com/michael861227/GPE-Practice/blob/master/Luggage.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
 | [Prefix expression evaluation](https://github.com/michael861227/GPE-Practice/blob/master/Prefix%20expression%20evaluation.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
 | [Uncompress](https://github.com/michael861227/GPE-Practice/blob/master/Uncompress.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Disk Tree](https://github.com/michael861227/GPE-Practice/blob/master/Disk%20Tree.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Cola](https://github.com/michael861227/GPE-Practice/blob/master/Cola.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
