@@ -54,3 +54,13 @@ Before finishing:
 - Confirm the alignment row is still `|:---:|:---:|:---:|:---:|:---:|`.
 - Confirm new or changed links point to existing `.cpp` filenames.
 - Confirm rows are sorted by `Recommand -> Appearance -> Master` with star counts descending and Appearance descending.
+
+## Git Publish
+
+After the README update verification passes:
+1. Run `git status`.
+2. Run `git add .` to stage the current working tree changes.
+3. Run `git commit -m "Update README.md"`.
+4. Run `git push`.
+
+If any git command fails, stop and report the exact failure instead of trying alternate history, force push, reset, checkout, or stash commands. Ask the user before taking any recovery action.
