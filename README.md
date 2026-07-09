@@ -33,6 +33,7 @@
 | [A mid-summer night's dream](https://github.com/michael861227/GPE-Practice/blob/master/A%20mid-summer%20night%27s%20dream.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [The Hotel with Infinite Rooms](https://github.com/michael861227/GPE-Practice/blob/master/The%20Hotel%20with%20Infinite%20Rooms.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Robot Instructions](https://github.com/michael861227/GPE-Practice/blob/master/Robot%20Instructions.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
+| [Sum of Consecutive Prime Numbers](https://github.com/michael861227/GPE-Practice/blob/master/Sum%20of%20Consecutive%20Prime%20Numbers.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Cola](https://github.com/michael861227/GPE-Practice/blob/master/Cola.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
