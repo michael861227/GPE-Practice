@@ -35,6 +35,7 @@
 | [Robot Instructions](https://github.com/michael861227/GPE-Practice/blob/master/Robot%20Instructions.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Sum of Consecutive Prime Numbers](https://github.com/michael861227/GPE-Practice/blob/master/Sum%20of%20Consecutive%20Prime%20Numbers.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Bachet's Game](https://github.com/michael861227/GPE-Practice/blob/master/Bachet%27s%20Game.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
+| [Binary tree traversals](https://github.com/michael861227/GPE-Practice/blob/master/Binary%20tree%20traversals.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Cola](https://github.com/michael861227/GPE-Practice/blob/master/Cola.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
