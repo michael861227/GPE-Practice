@@ -63,4 +63,6 @@ After the README update verification passes:
 3. Run `git commit -m "Update README.md"`.
 4. Run `git push`.
 
+Keep `Review.cpp` ignored and untracked. Do not stage, commit, or push it during README updates.
+
 If any git command fails, stop and report the exact failure instead of trying alternate history, force push, reset, checkout, or stash commands. Ask the user before taking any recovery action.
