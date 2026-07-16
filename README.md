@@ -21,7 +21,7 @@
 | [Die Game](https://github.com/michael861227/GPE-Practice/blob/master/Die%20Game.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 1️⃣ | ⭐️⭐️ |
 | [Dollars](https://github.com/michael861227/GPE-Practice/blob/master/Dollars.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 1️⃣ | ⭐️⭐️ |
 | [Luggage](https://github.com/michael861227/GPE-Practice/blob/master/Luggage.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 1️⃣ | ⭐️⭐️ |
-| [Prefix expression evaluation](https://github.com/michael861227/GPE-Practice/blob/master/Prefix%20expression%20evaluation.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
+| [Prefix expression evaluation](https://github.com/michael861227/GPE-Practice/blob/master/Prefix%20expression%20evaluation.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 1️⃣ | ⭐️ |
 | [Uncompress](https://github.com/michael861227/GPE-Practice/blob/master/Uncompress.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
 | [Conformity](https://github.com/michael861227/GPE-Practice/blob/master/Conformity.cpp) | ⭐️⭐️⭐️ | 3️⃣ | 0️⃣ | ⭐️ |
 | [Rank the Languages](https://github.com/michael861227/GPE-Practice/blob/master/Rank%20the%20Languages.cpp) | ⭐️⭐️⭐️ | 3️⃣ | 0️⃣ | ⭐️ |
