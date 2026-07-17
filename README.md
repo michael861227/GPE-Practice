@@ -24,9 +24,9 @@
 | [Prefix expression evaluation](https://github.com/michael861227/GPE-Practice/blob/master/Prefix%20expression%20evaluation.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 1️⃣ | ⭐️ |
 | [Uncompress](https://github.com/michael861227/GPE-Practice/blob/master/Uncompress.cpp) | ⭐️⭐️⭐️ | 4️⃣ | 1️⃣ | ⭐️ |
 | [Rank the Languages](https://github.com/michael861227/GPE-Practice/blob/master/Rank%20the%20Languages.cpp) | ⭐️⭐️⭐️ | 3️⃣ | 1️⃣ | ⭐️⭐️ |
+| [Oil Deposits](https://github.com/michael861227/GPE-Practice/blob/master/Oil%20Deposits.cpp) | ⭐️⭐️⭐️ | 3️⃣ | 1️⃣ | ⭐️⭐️ |
 | [Conformity](https://github.com/michael861227/GPE-Practice/blob/master/Conformity.cpp) | ⭐️⭐️⭐️ | 3️⃣ | 1️⃣ | ⭐️ |
-| [Oil Deposits](https://github.com/michael861227/GPE-Practice/blob/master/Oil%20Deposits.cpp) | ⭐️⭐️⭐️ | 3️⃣ | 0️⃣ | ⭐️ |
-| [Disk Tree](https://github.com/michael861227/GPE-Practice/blob/master/Disk%20Tree.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
+| [Disk Tree](https://github.com/michael861227/GPE-Practice/blob/master/Disk%20Tree.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️ |
 | [How Big Is It?](https://github.com/michael861227/GPE-Practice/blob/master/How%20Big%20Is%20It.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Fill the Containers](https://github.com/michael861227/GPE-Practice/blob/master/Fill%20the%20Containers.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [All You Need Is Love](https://github.com/michael861227/GPE-Practice/blob/master/All%20You%20Need%20Is%20Love.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |

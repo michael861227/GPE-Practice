@@ -32,7 +32,7 @@ void printTree(const Node& node, int depth){
         cout << string(depth, ' ') << name << '\n';
 
         // 子資料夾深度 +1
-        // '*nextNode' 是取的 Node 的 reference，而 .get() 是取得 *Node
+        // '*nextNode' 是取的 Node 的 reference，而 .get() 是取得 Node*
         printTree(*nextNode, depth + 1);
     }
 }
@@ -95,4 +95,116 @@ struct Node {
         }
     }
 };
+*/
+
+/*
+不使用 unique_ptr 寫法
+
+
+一個 Node 代表一個資料夾節點
+struct Node {
+    """
+        key   ：子資料夾名稱
+        value ：子資料夾對應的 Node
+
+        map 有兩個作用：
+        1. 相同名稱只會保存一份
+        2. 自動按照資料夾名稱的字典序排序
+    """"
+    map<string, Node> child;
+};
+
+將一條完整路徑插入目錄樹
+void insertPath(Node& root, const string& path) {
+    # cur 指向目前走到的節點
+    # 一開始位於虛擬根節點 root
+    Node* cur = &root;
+
+    string dir;
+
+    # 把字串 path 包裝成輸入串流
+    # 之後就能使用 getline 按照 '\' 切割
+    stringstream ss(path);
+
+    """"
+        例如：
+        path = "WINNT\\SYSTEM32\\CONFIG"
+
+        每次 getline 得到：
+        第一次：WINNT
+        第二次：SYSTEM32
+        第三次：CONFIG
+
+        C++ 程式碼中的 '\\' 代表一個反斜線字元
+    """"
+    while (getline(ss, dir, '\\')) {
+        """"
+            cur->child[dir]：
+
+            如果 dir 已經存在：
+                取得原本的子節點。
+
+            如果 dir 不存在：
+                map 的 operator[] 會自動建立：
+                dir -> Node{}
+
+            因此不需要自己判斷是否存在，
+            也不需要使用 new 建立節點。
+        """"
+        cur = &cur->child[dir];
+
+        # &cur->child[dir] 的型別是 Node*
+        # 所以可以指定給 cur，繼續往下一層移動
+    }
+}
+
+使用 DFS 輸出整棵目錄樹
+void printTree(const Node& node, int depth) {
+    """"
+        因為 child 是 map，
+        所以走訪時會自動按照資料夾名稱的字典序輸出。
+    """"
+    for (const auto& [name, nextNode] : node.child) {
+        # depth 代表前面需要輸出的空白數量
+        cout << string(depth, ' ') << name << '\n';
+
+        """"
+            nextNode 本身就是 Node 物件，
+            不再是 unique_ptr<Node>。
+
+            因此可以直接傳入 nextNode，
+            不需要使用 .get() 或 *nextNode。
+        """"
+        printTree(nextNode, depth + 1);
+    }
+}
+
+int main() {
+    int n;
+
+    持續讀取測資，直到遇到 EOF
+    while (cin >> n) {
+        """"
+            root 是虛擬根節點，本身不輸出。
+            所有最外層資料夾都會放在 root.child。
+        """"
+        Node root;
+
+        # 讀取 n 條路徑
+        for (int i = 0; i < n; i++) {
+            string path;
+            cin >> path;
+
+            insertPath(root, path);
+        }
+
+        # 從虛擬根節點開始輸出，最外層深度為 0
+        printTree(root, 0);
+
+        # 不同測資之間輸出空行
+        cout << '\n';
+    }
+
+    return 0;
+}
 */
