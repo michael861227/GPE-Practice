@@ -32,9 +32,9 @@
 | [Sum of Consecutive Prime Numbers](https://github.com/michael861227/GPE-Practice/blob/master/Sum%20of%20Consecutive%20Prime%20Numbers.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️⭐️⭐️ |
 | [Fill the Containers](https://github.com/michael861227/GPE-Practice/blob/master/Fill%20the%20Containers.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️⭐️ |
 | [The Hotel with Infinite Rooms](https://github.com/michael861227/GPE-Practice/blob/master/The%20Hotel%20with%20Infinite%20Rooms.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️⭐️ |
+| [Bachet's Game](https://github.com/michael861227/GPE-Practice/blob/master/Bachet%27s%20Game.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️⭐️ |
 | [Disk Tree](https://github.com/michael861227/GPE-Practice/blob/master/Disk%20Tree.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️ |
 | [How Big Is It?](https://github.com/michael861227/GPE-Practice/blob/master/How%20Big%20Is%20It.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️ |
-| [Bachet's Game](https://github.com/michael861227/GPE-Practice/blob/master/Bachet%27s%20Game.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Binary tree traversals](https://github.com/michael861227/GPE-Practice/blob/master/Binary%20tree%20traversals.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Hay Points](https://github.com/michael861227/GPE-Practice/blob/master/Hay%20Points.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Parser and evaluator](https://github.com/michael861227/GPE-Practice/blob/master/Parser%20and%20evaluator.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
