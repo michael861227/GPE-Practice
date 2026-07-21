@@ -14,7 +14,7 @@ Maintain the `README.md` `# Record` table for this GPE practice repo. Preserve t
 Use exactly these columns and centered alignment:
 
 ```markdown
-| Problem | Recommand | Appearance | Review | Master |
+| Problem | Recommand | Appearance | Master | Review |
 |:---:|:---:|:---:|:---:|:---:|
 ```
 
@@ -22,8 +22,8 @@ Field rules:
 - `Problem`: show only the problem title, not the problem id; link to the GitHub `.cpp` file on the current repo's `master` branch.
 - `Recommand`: use `⭐️`, `⭐️⭐️`, or `⭐️⭐️⭐️`.
 - `Appearance`: use keycap numbers such as `1️⃣`, `4️⃣`, `8️⃣`.
-- `Review`: use keycap numbers such as `0️⃣`, `1️⃣`, `2️⃣`.
 - `Master`: use `⭐️`, `⭐️⭐️`, or `⭐️⭐️⭐️`.
+- `Review`: use keycap numbers such as `0️⃣`, `1️⃣`, `2️⃣`.
 
 Keep the user's spelling `Recommand`.
 
@@ -44,8 +44,9 @@ Sort rows by:
 1. `Recommand` star count, high to low.
 2. `Appearance` number, high to low.
 3. `Master` star count, high to low.
+4. `Review` number, high to low.
 
-If all three sort keys match, preserve the existing relative order to avoid unnecessary churn.
+If all four sort keys match, preserve the existing relative order to avoid unnecessary churn.
 
 ## Verification
 
@@ -53,7 +54,7 @@ Before finishing:
 - Read the rendered table section with `sed -n '13,45p' README.md` or an equivalent command.
 - Confirm the alignment row is still `|:---:|:---:|:---:|:---:|:---:|`.
 - Confirm new or changed links point to existing `.cpp` filenames.
-- Confirm rows are sorted by `Recommand -> Appearance -> Master` with star counts descending and Appearance descending.
+- Confirm rows are sorted by `Recommand -> Appearance -> Master -> Review`, all descending.
 
 ## Git Publish
 
