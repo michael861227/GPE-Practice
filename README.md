@@ -38,8 +38,8 @@
 | [How Big Is It?](https://github.com/michael861227/GPE-Practice/blob/master/How%20Big%20Is%20It.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 1️⃣ | ⭐️ |
 | [Binary tree traversals](https://github.com/michael861227/GPE-Practice/blob/master/Binary%20tree%20traversals.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
 | [Parser and evaluator](https://github.com/michael861227/GPE-Practice/blob/master/Parser%20and%20evaluator.cpp) | ⭐️⭐️⭐️ | 2️⃣ | 0️⃣ | ⭐️ |
+| [Cola](https://github.com/michael861227/GPE-Practice/blob/master/Cola.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 1️⃣ | ⭐️⭐️⭐️ |
 | [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 1️⃣ | ⭐️ |
-| [Cola](https://github.com/michael861227/GPE-Practice/blob/master/Cola.cpp) | ⭐️⭐️⭐️ | 1️⃣ | 0️⃣ | ⭐️ |
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
 | [Show the Sequence](https://github.com/michael861227/GPE-Practice/blob/master/Show%20the%20Sequence.cpp) | ⭐️⭐️ | 5️⃣ | 0️⃣ | ⭐️ |
 | [Contest Scoreboard](https://github.com/michael861227/GPE-Practice/blob/master/Contest%20Scoreboard.cpp) | ⭐️⭐️ | 4️⃣ | 0️⃣ | ⭐️ |
