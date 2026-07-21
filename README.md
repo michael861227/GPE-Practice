@@ -42,7 +42,7 @@
 | [Last Digit](https://github.com/michael861227/GPE-Practice/blob/master/Last%20Digit.cpp) | ⭐️⭐️⭐️ | 1️⃣ | ⭐️ | 1️⃣ |
 | [Show the Sequence](https://github.com/michael861227/GPE-Practice/blob/master/Show%20the%20Sequence.cpp) | ⭐️⭐️ | 5️⃣ | ⭐️ | 1️⃣ |
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | ⭐️ | 0️⃣ |
-| [Contest Scoreboard](https://github.com/michael861227/GPE-Practice/blob/master/Contest%20Scoreboard.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
+| [Contest Scoreboard](https://github.com/michael861227/GPE-Practice/blob/master/Contest%20Scoreboard.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 1️⃣ |
 | [Dungeon Master](https://github.com/michael861227/GPE-Practice/blob/master/Dungeon%20Master.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Minimal coverage](https://github.com/michael861227/GPE-Practice/blob/master/Minimal%20coverage.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Roads in the North](https://github.com/michael861227/GPE-Practice/blob/master/Roads%20in%20the%20North.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
