@@ -44,8 +44,8 @@
 | [Extend to Palindromes](https://github.com/michael861227/GPE-Practice/blob/master/Extend%20to%20Palindromes.cpp) | ⭐️⭐️ | 5️⃣ | ⭐️ | 0️⃣ |
 | [Dungeon Master](https://github.com/michael861227/GPE-Practice/blob/master/Dungeon%20Master.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️⭐️ | 1️⃣ |
 | [Minimal coverage](https://github.com/michael861227/GPE-Practice/blob/master/Minimal%20coverage.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️⭐️ | 1️⃣ |
+| [Roads in the North](https://github.com/michael861227/GPE-Practice/blob/master/Roads%20in%20the%20North.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️⭐️ | 1️⃣ |
 | [Contest Scoreboard](https://github.com/michael861227/GPE-Practice/blob/master/Contest%20Scoreboard.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 1️⃣ |
-| [Roads in the North](https://github.com/michael861227/GPE-Practice/blob/master/Roads%20in%20the%20North.cpp) | ⭐️⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Longest Paths](https://github.com/michael861227/GPE-Practice/blob/master/Longest%20Paths.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Network Connections](https://github.com/michael861227/GPE-Practice/blob/master/Network%20Connections.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Prime Distance](https://github.com/michael861227/GPE-Practice/blob/master/Prime%20Distance.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
