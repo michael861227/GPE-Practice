@@ -15,7 +15,7 @@
 | Problem | Recommand | Appearance | Master | Review |
 |:---:|:---:|:---:|:---:|:---:|
 | [Unique lines](https://github.com/michael861227/GPE-Practice/blob/master/Unique%20lines.cpp) | ⭐️⭐️⭐️ | 8️⃣ | ⭐️⭐️ | 1️⃣ |
-| [Power Crisis](https://github.com/michael861227/GPE-Practice/blob/master/Power%20Crisis.cpp) | ⭐️⭐️⭐️ | 6️⃣ | ⭐️⭐️ | 1️⃣ |
+| [Power Crisis](https://github.com/michael861227/GPE-Practice/blob/master/Power%20Crisis.cpp) | ⭐️⭐️⭐️ | 6️⃣ | ⭐️⭐️⭐️ | 2️⃣ |
 | [Sumsets](https://github.com/michael861227/GPE-Practice/blob/master/Sumsets.cpp) | ⭐️⭐️⭐️ | 6️⃣ | ⭐️ | 1️⃣ |
 | [Bee Maja](https://github.com/michael861227/GPE-Practice/blob/master/Bee%20Maja.cpp) | ⭐️⭐️⭐️ | 5️⃣ | ⭐️⭐️ | 1️⃣ |
 | [Die Game](https://github.com/michael861227/GPE-Practice/blob/master/Die%20Game.cpp) | ⭐️⭐️⭐️ | 4️⃣ | ⭐️⭐️ | 1️⃣ |
