@@ -49,7 +49,7 @@
 | [Common Permutation](https://github.com/michael861227/GPE-Practice/blob/master/Common%20Permutation.cpp) | ⭐️⭐️ | 2️⃣ | ⭐️ | 0️⃣ |
 | [Divisibility](https://github.com/michael861227/GPE-Practice/blob/master/Divisibility.cpp) | ⭐️⭐️ | 2️⃣ | ⭐️ | 0️⃣ |
 | [Joseph's Cousin](https://github.com/michael861227/GPE-Practice/blob/master/Joseph%27s%20Cousin.cpp) | ⭐️⭐️ | 2️⃣ | ⭐️ | 0️⃣ |
-| [Zipf's Law](https://github.com/michael861227/GPE-Practice/blob/master/Zipf%27s%20Law.cpp) | ⭐️⭐️ | 1️⃣ | ⭐️ | 0️⃣ |
+| [Zipf's Law](https://github.com/michael861227/GPE-Practice/blob/master/Zipf%27s%20Law.cpp) | ⭐️⭐️ | 1️⃣ | ⭐️⭐️⭐️ | 1️⃣ |
 | [Network Connections](https://github.com/michael861227/GPE-Practice/blob/master/Network%20Connections.cpp) | ⭐️ | 4️⃣ | ⭐️⭐️ | 1️⃣ |
 | [Longest Paths](https://github.com/michael861227/GPE-Practice/blob/master/Longest%20Paths.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Prime Distance](https://github.com/michael861227/GPE-Practice/blob/master/Prime%20Distance.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
