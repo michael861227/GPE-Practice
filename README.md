@@ -55,3 +55,12 @@
 | [Network Connections](https://github.com/michael861227/GPE-Practice/blob/master/Network%20Connections.cpp) | ⭐️ | 4️⃣ | ⭐️⭐️ | 1️⃣ |
 | [Longest Paths](https://github.com/michael861227/GPE-Practice/blob/master/Longest%20Paths.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
 | [Prime Distance](https://github.com/michael861227/GPE-Practice/blob/master/Prime%20Distance.cpp) | ⭐️ | 4️⃣ | ⭐️ | 0️⃣ |
+
+# 2026/07/28
+
+1. Bee Maja
+2. Power Strings
+3. Longest Common Subsequence
+4. Unique lines
+5. Making Change
+6. Packing polygons
