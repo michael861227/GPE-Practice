@@ -58,9 +58,14 @@
 
 # 2026/07/28
 
-1. Bee Maja
-2. Power Strings
-3. Longest Common Subsequence
-4. Unique lines
-5. Making Change
-6. Packing polygons
+### 1. Bee Maja
+
+### 2. Power Strings
+
+### 3. Longest Common Subsequence
+
+### 4. Unique lines
+
+### 5. Making Change
+
+### 6. Packing polygons
